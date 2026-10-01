@@ -1,0 +1,14 @@
+{
+  "name": "image-generation",
+  "description": "Generate images from a text prompt or reference images with the Gemini image model, and recover transparent PNGs from a white/black render pair",
+  "version": "1.0.0",
+  "author": {
+    "name": "Valgard Trontheim"
+  },
+  "keywords": [
+    "image-generation",
+    "gemini",
+    "transparency",
+    "png"
+  ]
+}
